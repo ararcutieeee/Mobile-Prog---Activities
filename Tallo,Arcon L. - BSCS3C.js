@@ -1,6 +1,6 @@
 let name = "Arcon";
 let age = 25;
-let grade = 90;
+let grade = 74;
 
 let  fruits = ["Apple", "Banana", "Mango"];
 let colors = ["Red", "Blue", "Green"];
