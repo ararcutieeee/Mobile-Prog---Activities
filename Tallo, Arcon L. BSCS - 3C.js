@@ -1,6 +1,6 @@
 let school = "Northwest Samar State University";
 let year = 2026;
-let studentsCount = 3;
+let studentsCount = asd
 
 let students = ["Kiko", "Ace", "Justin"];
 let grades = [90, 85 , 75];
